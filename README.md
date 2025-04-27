@@ -1,6 +1,7 @@
 # CV-Grader
 
 This project is a Python-based tool designed to evaluate and rank CVs (resumes) based on their relevance to a given job description. It uses OCR (Optical Character Recognition) for text extraction, NLP (Natural Language Processing) for text preprocessing, and a scoring mechanism to rank CVs.
+Since lack of CVs data, most of the Cvs used were sample/generated CVs.
 
 ## Features
 
